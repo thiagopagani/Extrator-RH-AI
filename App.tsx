@@ -96,7 +96,6 @@ const App: React.FC = () => {
       'Pai': f.data?.filiacao_pai,
       'Mãe': f.data?.filiacao_mae,
       'Data Nasc': f.data?.data_nascimento,
-      'Idade': f.data?.idade,
       'Nacionalidade': f.data?.nacionalidade,
       'Est. Civil': f.data?.estado_civil,
       'Local Nasc': f.data?.local_nascimento,

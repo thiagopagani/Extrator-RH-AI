@@ -11,7 +11,6 @@ export interface EmployeeData {
   filiacao_pai: string;
   filiacao_mae: string;
   data_nascimento: string;
-  idade: string;
   nacionalidade: string;
   estado_civil: string;
   local_nascimento: string;

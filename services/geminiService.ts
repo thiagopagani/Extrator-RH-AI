@@ -19,7 +19,6 @@ const employeeSchema: Schema = {
     filiacao_pai: { type: Type.STRING, description: "Nome do Pai (Filiação)" },
     filiacao_mae: { type: Type.STRING, description: "Nome da Mãe (Filiação)" },
     data_nascimento: { type: Type.STRING, description: "Data de Nascimento (DD/MM/AAAA)" },
-    idade: { type: Type.STRING, description: "Idade" },
     nacionalidade: { type: Type.STRING, description: "Nacionalidade" },
     estado_civil: { type: Type.STRING, description: "Estado Civil" },
     local_nascimento: { type: Type.STRING, description: "Local de Nascimento (Cidade)" },

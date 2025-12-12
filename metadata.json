@@ -1,0 +1,5 @@
+{
+  "name": "RH Doc Extractor AI",
+  "description": "Ferramenta inteligente para digitalizar fichas de empregados e documentos de RH, extraindo dados manuscritos e impressos diretamente para Excel usando Google Gemini.",
+  "requestFramePermissions": []
+}
